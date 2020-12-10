@@ -1,6 +1,8 @@
  ### Hi, I'm Emsal! 👋 😊
- <hr>
- 
+<!--
+**emsalcengiz/emsalcengiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ --> 
  I am a **Software Engineer** who loves to learn new things, is determined, hardworking and is very keen on technology.
  
  Whenever I have the opportunity, I develop open-source projects and share them here. :mortar_board: :books: :smile:
