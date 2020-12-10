@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
- I am a **Software Engineer** who loves to learn new things, is determined, hardworking and is very keen on technology.
+ I am a **Software Engineer** who loves to learn new things, is determined, hardworking and is very curious on technology.
  
  Whenever I have the opportunity, I develop open-source projects and share them here.
  It is my greatest wish and happiness that my works can be a solution to people's problems. I am currently working  on data.  :shipit:
