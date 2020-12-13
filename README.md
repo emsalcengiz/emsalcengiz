@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 * [twitter ](https://https://twitter.com/emsalcngz)
 * [linkedn](https://tr.linkedin.com/in/emsalcengiz)
-* [linkedn](https://dev.to/emsalcengiz)
+* [dev](https://dev.to/emsalcengiz)
 
  
  
