@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 * [twitter ](https://https://twitter.com/emsalcngz)
 * [linkedn](https://tr.linkedin.com/in/emsalcengiz)
-* [DEV Community 👩‍💻](https://dev.to/emsalcengiz) 
-![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--4RkRuwpj--/c_limit,f_auto,fl_progressive,q_auto,w_100/https://dev-to-uploads.s3.amazonaws.com/i/wmv3mtusjwb3r13d5h2f.png)
+* [DEV Community](https://dev.to/emsalcengiz) 
+
 
  
  
