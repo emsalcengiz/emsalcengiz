@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
  ### If you want to know more about me:
 
-* [twitter ](https://https://twitter.com/emsalcngz)
+* [twitter ](https://twitter.com/emsalcngz)
 * [linkedn](https://tr.linkedin.com/in/emsalcengiz)
 * [DEV Community](https://dev.to/emsalcengiz) 
 
