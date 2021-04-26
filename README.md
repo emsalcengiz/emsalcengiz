@@ -14,18 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
- I am a **Software Engineer** who loves to learn new things, is determined, hardworking and is very curious on technology.
+ I am a **Software Engineer** who loves to learn new things, is determined, hardworking, and is very curious about technology.
  
  I am currently working  on data.  :shipit:
  
  ### If you want to know more about me:
-
-* [twitter ](https://twitter.com/emsalcngz)
 * [linkedn](https://tr.linkedin.com/in/emsalcengiz)
-* [DEV Community](https://dev.to/emsalcengiz) 
-
-
- 
  
  ### If you wanna reach to me:
 
