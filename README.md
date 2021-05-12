@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  I am currently working  on data.  :shipit:
  
  ### If you want to know more about me:
-* [linkedn](https://tr.linkedin.com/in/emsalcengiz)
+* [linkedin](https://tr.linkedin.com/in/emsalcengiz)
  
  ### If you wanna reach to me:
 
