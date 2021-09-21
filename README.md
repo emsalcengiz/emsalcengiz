@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  I am a **Data Engineer** :shipit:
  
  
- ## If you are more interested with my background you can check out my [linkedin](https://tr.linkedin.com/in/emsalcengiz) profile.
+ ### If you are more interested with my background you can check out my [linkedin](https://tr.linkedin.com/in/emsalcengiz) profile.
 
  
 
