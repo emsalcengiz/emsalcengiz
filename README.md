@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
- I am a **Software Engineer** :shipit:
+ I am a **Data Engineer** :shipit:
  
- ### If you want to know more about me:
-* [linkedin](https://tr.linkedin.com/in/emsalcengiz)
  
- ### If you wanna reach to me:
+ ## If you are more interested with my background you can check out my [linkedin](https://tr.linkedin.com/in/emsalcengiz) profile.
 
-* [emsalcngz2@gmail.com](mailto:emsalcngz2@gmail.com) :envelope: 
+ 
+
 
