@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
- I’m currently learning; Big Data Tech-Data Engineering(Apache Kafka, Spark, Airflow, Hadoop..etc)
- I'm currently working as a Data Engineer in a company. :shipit:
+ I’m currently learning; Big Data Tech-Data Engineering(Apache Kafka, Spark, Airflow, Hadoop..)  :shipit:
+
 
 
  If you are more interested with my background you can check out my [linkedin](https://tr.linkedin.com/in/emsalcengiz) profile.
