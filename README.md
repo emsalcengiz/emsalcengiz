@@ -1,4 +1,4 @@
- # Hi, I'm Emsal!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 <!--
 **emsalcengiz/emsalcengiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 --> 
 Hi there 👋 :shipit:
 
-
-
- If you are more interested with my background you can check out my [linkedin](https://tr.linkedin.com/in/emsalcengiz) profile.
 
  
 
