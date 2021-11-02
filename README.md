@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
- I’m currently learning; Big Data Tech-Data Engineering(Apache Kafka, Spark, Airflow, Hadoop..)  :shipit:
+Hi there 👋 :shipit:
 
 
 
