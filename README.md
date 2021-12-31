@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-Hi there 👋
 
+Hi there �:giraffe:
+- 💬 Ask me about ...
 
  
 
