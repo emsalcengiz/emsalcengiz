@@ -1,10 +1,10 @@
-# Hi there, I'm Emsal! 💁‍♀️✨
+# Hi there, I'm Emsal!
 
-🧑‍💻 I'm an **Associate Data Engineer at Metyis**, building smart, scalable, and cloud-native data pipelines for a global e-commerce client.
+💁‍♀️✨ I'm an **Associate Data Engineer at Metyis**, building smart, scalable, and cloud-native data pipelines for a global e-commerce client.
 
 ---
 
-## 👩‍💻 What I do
+## What I do
 
 🌐 Turning raw data into insights using:  
 &nbsp;&nbsp;&nbsp;&nbsp;💙 **Azure** (Functions, Data Lake, Blob Storage)  
