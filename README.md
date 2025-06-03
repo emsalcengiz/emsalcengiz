@@ -2,8 +2,7 @@
 
 💁‍♀️✨ I'm an **Associate Data Engineer at Metyis**, building smart, scalable, and cloud-native data pipelines for a global client.
 
-
-## What I do
+# What I do
 
 🌐 Turning raw data into insights using:  
 &nbsp;&nbsp;&nbsp;&nbsp;💙 **Azure** (Functions, Data Lake, Blob Storage)  
@@ -23,20 +22,19 @@
 - 🚀 **CI/CD pipelines** for smooth and fast deployments
 
 
-## 📚 Currently Exploring
+# 📚 Currently Exploring
 
 🔬 Cloud architecture & cost-efficient design  
 📐 Advanced data modeling & orchestration strategies  
 📈 Data reliability, observability, and product-driven metrics
 
 
-## 📫 Let’s Connect
+# 📫 Let’s Connect
 
-📧 [emsalcngz2@gmail.com](mailto:emsalcngz2@gmail.com)  
-🔗 [LinkedIn – Emsal Cengiz](https://www.linkedin.com/in/emsal-cengiz/)  
+📧 [emsalcngz2@gmail.com]
+🔗 [LinkedIn – Emsal Cengiz] 
 
----
 
-## ⚡ Fun fact
+# ⚡ Fun fact
 
 I love making data pipelines that work *like magic* ✨
