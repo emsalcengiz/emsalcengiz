@@ -1,8 +1,7 @@
 # Hi there, I'm Emsal!
 
-💁‍♀️✨ I'm an **Associate Data Engineer at Metyis**, building smart, scalable, and cloud-native data pipelines for a global e-commerce client.
+💁‍♀️✨ I'm an **Associate Data Engineer at Metyis**, building smart, scalable, and cloud-native data pipelines for a global client.
 
----
 
 ## What I do
 
@@ -23,7 +22,6 @@
 - 🔁 **REST APIs**, webhooks & automation workflows  
 - 🚀 **CI/CD pipelines** for smooth and fast deployments
 
----
 
 ## 📚 Currently Exploring
 
@@ -31,7 +29,6 @@
 📐 Advanced data modeling & orchestration strategies  
 📈 Data reliability, observability, and product-driven metrics
 
----
 
 ## 📫 Let’s Connect
 
@@ -42,5 +39,4 @@
 
 ## ⚡ Fun fact
 
-I love making data pipelines that work *like magic* ✨  
-...and yes, I'm that girl who gets excited about streaming jobs and DAGs! 💖📎🌀
+I love making data pipelines that work *like magic* ✨
