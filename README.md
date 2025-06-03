@@ -29,11 +29,6 @@
 📈 Data reliability, observability, and product-driven metrics
 
 
-# 📫 Let’s Connect
-
-📧 [emsalcngz2@gmail.com]
-🔗 [LinkedIn – Emsal Cengiz] 
-
 
 # ⚡ Fun fact
 
