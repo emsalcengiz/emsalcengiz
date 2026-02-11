@@ -1,35 +1,45 @@
-# Hi there, I'm Emsal!
+# Hi there, I'm Emsal 👋
 
-💁‍♀️✨ I'm an **Associate Data Engineer at Metyis**, building smart, scalable, and cloud-native data pipelines for a global client.
+🚀 I'm a **Senior Data Engineer at Accenture**, designing and building scalable, cloud-native data platforms for global enterprise clients.
 
-# What I do
+## What I do
 
-🌐 Turning raw data into insights using:  
-&nbsp;&nbsp;&nbsp;&nbsp;💙 **Azure** (Functions, Data Lake, Blob Storage)  
-&nbsp;&nbsp;&nbsp;&nbsp;🐍 **PySpark** for large-scale **batch** and **stream** processing  
-&nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Apache Spark**, **Flink**, **Beam** for distributed computing  
-&nbsp;&nbsp;&nbsp;&nbsp;📊 **Power BI** dashboards for data storytelling  
+🌐 I turn complex, raw data into reliable and actionable insights using:
 
-⏱ Working with both:
-- ⚡ Real-time data processing (**Spark Structured Streaming**, **Flink**, **Beam**)  
-- 🧱 Batch workflows for data aggregation, modeling, and reporting
+&nbsp;&nbsp;&nbsp;&nbsp;☁️ **Cloud Platforms**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **Azure** (Data Factory, Functions, Databricks, Data Lake, Blob Storage)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• **AWS** (S3, Athena, Lambda, Glue – project-based)
 
-🧰 Also familiar with:
-- 🐳 **Docker** for isolated and portable environments  
-- ⛓️ **Apache Airflow** for orchestration and scheduling  
-- 📂 **Parquet**, **Delta Lake** for optimized storage  
-- 🔁 **REST APIs**, webhooks & automation workflows  
-- 🚀 **CI/CD pipelines** for smooth and fast deployments
+&nbsp;&nbsp;&nbsp;&nbsp;🐍 **Python & PySpark** for large-scale data processing  
+&nbsp;&nbsp;&nbsp;&nbsp;⚙️ **Apache Spark** for distributed batch & streaming workloads  
+&nbsp;&nbsp;&nbsp;&nbsp;📊 **Power BI & Tableau** for analytics and data storytelling  
 
+## How I work
 
-# 📚 Currently Exploring
+⏱ Experienced in both:
 
-🔬 Cloud architecture & cost-efficient design  
-📐 Advanced data modeling & orchestration strategies  
-📈 Data reliability, observability, and product-driven metrics
+- ⚡ **Real-time & near real-time processing**  
+  (Spark Structured Streaming, event-driven pipelines)
+- 🧱 **Batch data pipelines**  
+  (ETL/ELT, data modeling, historical backfills, reporting layers)
 
+🧰 My toolkit also includes:
 
+- 🗄️ **Data Lakes & Storage**: Parquet, Delta Lake, partitioned data models  
+- 🔁 **APIs & Integrations**: REST APIs, webhooks, external data ingestion  
+- ⛓️ **Orchestration**: Apache Airflow, Azure Data Factory  
+- 🐳 **Docker** for reproducible environments  
+- 🚀 **CI/CD**: Git-based pipelines for automated deployment & quality checks  
+- 🔍 **Data quality & reliability**: monitoring, validation, and observability
 
-# ⚡ Fun fact
+## 📚 Currently Exploring
 
-I love making data pipelines that work *like magic* ✨
+🔬 Cloud-agnostic data architecture & cost-efficient design  
+📐 Advanced data modeling & analytics engineering  
+🧠 Data reliability, observability, and data-as-a-product mindset  
+🤖 Modern data platforms & AI-ready pipelines
+
+## ⚡ Fun fact
+
+I enjoy building data pipelines that are **boring in production** —  
+because boring means *reliable, scalable, and well-designed* ✨
